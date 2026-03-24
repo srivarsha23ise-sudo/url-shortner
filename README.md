@@ -62,10 +62,14 @@ http://127.0.0.1:8000/shorten/
 
 ## 📸 Screenshots
 
-(Add screenshots here later)
+### 🔹 Home Page
+![Home](home.png)
 
----
+### 🔹 Short URL Generated
+![Short URL](short-link.png)
 
+### 🔹 Click Tracking
+![Clicks](click-count.png)
 ## 👨‍💻 Author
 
 Srivarsha
